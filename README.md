@@ -6,6 +6,6 @@
  1. simple java bbs to spring framework
    //  springusergroup / src / springtest / sug / board 
  2. and that refactoring into Spring @MVC 
-   //  springusergroup / src / springtest / sug / boardjdbc / 
+   //  springusergroup / src / springtest / sug / boardjdbc  
    //  springusergroup / src / springtest / sug / dao 
 
